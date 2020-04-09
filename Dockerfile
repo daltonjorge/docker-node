@@ -5,4 +5,4 @@ MAINTAINER Dalton Jorge <daltonjorge@gmail.com>
 RUN set -x \
     && apk update \
     && apk upgrade \
-    && apk add --update --no-cache nodejs npm python2
+    && apk add --update --no-cache build-base python2 nodejs npm

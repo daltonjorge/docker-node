@@ -1,5 +1,5 @@
 # docker-node
-Docker image for Node.js and OpenJDK-8-jre.
+A minimal Docker image based on Alpine Linux for Node.js and OpenJDK-8-jre.
 
 More info: 
 - [Node.js](https://nodejs.org)

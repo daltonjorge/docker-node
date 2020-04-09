@@ -6,5 +6,5 @@ More info:
 - [OpenJDK](https://openjdk.java.net)
 
 ## Components installed in this image:
-- Node.js 10.14.2 
+- Node.js 12.15.0 
 - OpenJDK-8-jre
